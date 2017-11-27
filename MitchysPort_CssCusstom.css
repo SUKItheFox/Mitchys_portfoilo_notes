@@ -1,0 +1,15 @@
+﻿#colophon.unconstrained-footer .container {
+  color: #dddddd;
+}
+
+input[type=submit]:hover {
+  color: #dddddd;
+  border-color: #ffffff;
+  background-color: #ffffff;
+}
+
+.main-navigation .menu > li.current-menu-item > a, .main-navigation .menu > li.current-menu-ancestor > a {
+  color: #000;
+}
+.main-navigation .menu > li.current-menu-item > a:hover, .main-navigation .menu > li.current-menu-ancestor > a:hover {
+  color: #d3d3d3 ;}
